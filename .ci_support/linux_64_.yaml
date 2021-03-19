@@ -3,9 +3,9 @@ boost:
 cdt_name:
 - cos6
 channel_sources:
-- valmar,conda-forge,defaults
+- fpoitevi,conda-forge,defaults
 channel_targets:
-- valmar main
+- fpoitevi main
 cxx_compiler:
 - gxx
 cxx_compiler_version:
