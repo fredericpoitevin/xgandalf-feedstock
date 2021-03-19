@@ -14,8 +14,8 @@ provider:
   linux: travis
 channels:
   sources:
-    - valmar
+    - fpoitevi
     - conda-forge
     - defaults
   targets:
-    - ["valmar", "main"]
+    - ["fpoitevi", "main"]
